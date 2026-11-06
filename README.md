@@ -2,7 +2,7 @@
 
 Application **LG webOS** qui installe et met à jour **Nuvio TV** directement depuis la télévision, sans repasser par un ordinateur. Nuvio n'étant pas sur le LG Content Store, Nuvio Up utilise le mode développeur de la TV.
 
-- Installe, met à jour et désinstalle Nuvio TV (barres de téléchargement et d'installation en direct)
+- Installe, met à jour et désinstalle Nuvio TV
 - Récupère et mémorise la clé du mode développeur : à faire une seule fois
 - Prolonge automatiquement la session développeur
 - Affiche les nouveautés de chaque version de Nuvio, en français
@@ -144,4 +144,4 @@ L'ordinateur n'est plus nécessaire ensuite.
 ## Communauté
 
 - Site de la communauté francophone : **StremioFr** — <https://stremiofr.me/>
-- Discord : **etherial_**
+- Discord : **etherial_** - https://discord.gg/5qeekMgzDu
