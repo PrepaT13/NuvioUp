@@ -90,17 +90,17 @@ ares-device-info --device tv
 
 ```powershell
 cd $HOME\Downloads
-ares-install --device tv .\com.nuvioup_2.9.0_all.ipk
+ares-install --device tv .\com.nuvioup_1.0.0_all.ipk
 ```
 
 ### Mac (Terminal)
 
 ```bash
 cd ~/Downloads
-ares-install --device tv ./com.nuvioup_2.9.0_all.ipk
+ares-install --device tv ./com.nuvioup_1.0.0_all.ipk
 ```
 
-Remplace `2.9.0` par la version téléchargée. L'app **Nuvio Up** apparaît dans la liste des applications de la TV.
+Remplace `1.0.0` par la version téléchargée. L'app **Nuvio Up** apparaît dans la liste des applications de la TV.
 
 ---
 
